@@ -64,7 +64,6 @@ class Customer {
   }
 
   tickService(universe) {
-    console.log(this.serviceTimeLeft)
     if (this.serviceTimeLeft == 0) {
       universe.waitList[this.facility].shift()
       this.visited[this.facility] = true

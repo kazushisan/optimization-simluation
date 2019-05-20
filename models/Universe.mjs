@@ -5,7 +5,19 @@ import CustomerRandom from '../agents/CustomerRandom'
 const sleep = (t) => new Promise(resolve => setTimeout(() => resolve(), t))
 
 class Universe {
-  constructor() {
+  constructor(config) {
+    // config は次の通りである．
+    // {
+    //   order,
+    //   customerNum,
+    //   customerOrderNum,
+    //   customerRandomNum,
+    //   display
+    // }
+
+    // コンソールに表示するか
+    this.display = config.display
+
     this.time = [10, 23, 20, 13, 10, 8]
     this.transport = [
       [0, 5, 3, 8, 13, 16],
@@ -22,21 +34,21 @@ class Universe {
     this.waitList = new Array(this.N).fill([])
 
     // CustomerOrderモデルのエージェントが使用する施設を回る順番
-    this.order = [0, 1, 2, 3, 4, 5]
+    this.order = config.order
 
-    this.initAgents()
+    this.initAgents(config)
 
     this.steps = 0
   }
 
-  initAgents() {
+  initAgents(config) {
     const self = this
-    this.customers = new Array(0).fill(null).map(() => new Customer(self))
-    this.customersOrder = new Array(10).fill(null).map(() => new CustomerOrder(self))
-    this.customersRandom = new Array(0).fill(null).map(() => new CustomerRandom(self))
+    this.customers = new Array(config.customerNum).fill(null).map(() => new Customer(self))
+    this.customersOrder = new Array(config.customerOrderNum).fill(null).map(() => new CustomerOrder(self))
+    this.customersRandom = new Array(config.customerRandomNum).fill(null).map(() => new CustomerRandom(self))
   }
 
-  async display() {
+  async displayOutput() {
     process.stdout.write('\x1Bc')
     console.table(this.waitList)
     console.log(`steps: ${this.steps}`)
@@ -45,7 +57,6 @@ class Universe {
 
   async tick() {
     const self = this
-    // console.log(this.waitList)
     this.waitList.forEach(list => {
       if (list.length > 0) {
         list[0].tickService(self)
@@ -62,7 +73,9 @@ class Universe {
       customerRandom.tickTransfer(self)
     })
 
-    await this.display()
+    if (this.display) {
+      await this.displayOutput()
+    }
     this.steps += 1
   }
 
@@ -73,7 +86,7 @@ class Universe {
 
     if (customersDone && customersOrderDone && customersRandomDone){
       console.log('FINISHED')
-      return true
+      return this.steps
     }
   }
 }
