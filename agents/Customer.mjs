@@ -28,7 +28,6 @@ class Customer {
 
   calcWaitTime(universe, facility) {
       const list = universe.waitList[facility]
-      const time = universe.time[facility]
       
       return list.reduce((acc, cur) => acc + cur.serviceTimeLeft, 0)
     }
@@ -58,8 +57,6 @@ class Customer {
       this.transTimeLeft -= 1
     } else {
       // on transfer end
-
-      this.serviceTimeLeft = universe.time[this.facility]
       // 普通にpushしただけだとなぜかうまく動作しなかった
       universe.waitList[this.facility] = [...universe.waitList[this.facility], this]
       this.isTransfer = false
@@ -78,6 +75,7 @@ class Customer {
         this.isDone = true
       } else {
         this.transTimeLeft = universe.transport[this.facility][newDestination]
+        this.serviceTimeLeft = universe.time[newDestination]
         this.facility = newDestination
         this.isTransfer = true
       }          
