@@ -16,6 +16,11 @@ git clone https://github.com/kazushisan/optimization-simluation.git
 ```
 
 ## 実行
+
 ```
 node --experimental-modules sample.mjs
+node --experimental-modules index.mjs
+
 ```
+
+適宜ソースコードにコメントを書きました．
