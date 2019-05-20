@@ -5,7 +5,12 @@ const universe = new Universe()
 // while(true) {
 //   universe.tick()
 // }
-while (true) {
-  universe.tick()
-  if (universe.done()) break
+
+const main = async () => {
+  while (true) {
+    await universe.tick()
+    if (universe.done()) break
+  }
 }
+
+main()
