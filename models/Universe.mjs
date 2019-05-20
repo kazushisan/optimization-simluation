@@ -1,6 +1,6 @@
 import Customer from '../agents/Customer'
-import CustomerOrder from '../agents/CustomerOrder'
-import CustomerRandom from '../agents/CustomerRandom'
+// import CustomerOrder from '../agents/CustomerOrder'
+// import CustomerRandom from '../agents/CustomerRandom'
 
 class Universe {
   constructor() {
@@ -17,23 +17,40 @@ class Universe {
     this.wait = new Array(6).fill(0)
     this.waitList = new Array(6).fill([])
 
-    this.costomers = new Array(10).map(() => new Customer())
-    this.costomersOrder = new Array(10).map(() => new CustomerOrder())
-    this.costomersOrder = new Array(10).map(() => new CustomerRandom())
+    this.init()
+  }
+
+  init() {
+    const self = this
+    this.customers = new Array(10).fill(null).map(() => new Customer(self))
+    // this.costomersOrder = new Array(10).map(() => new CustomerOrder())
+    // this.costomersOrder = new Array(10).map(() => new CustomerRandom())
+    console.log(this.waitList)
+    console.log(this.wait)
+  }
+
+  display() {
+    console.log('----wait list----')
+    console.log(this.waitList)
+    console.log('----wait time----')
+    console.log(this.wait)    
   }
 
   tick() {
-    const wait = this.wait
-    this.costomers.forEach(customer => {
-      customer.tick(wait)
+    const self = this
+    this.customers.forEach(customer => {
+      customer.tick(self)
     })
+    console.log(this.display())
 
-    this.customersOrder.forEach(costomerOrder => {
-      costomerOrder.tick()
-    })
+    // this.customersOrder.forEach(costomerOrder => {
+    //   costomerOrder.tick()
+    // })
 
-    this.costomersRandom.forEach(costomerRandom => {
-      costomerRandom.tick()
-    })
+    // this.costomersRandom.forEach(costomerRandom => {
+    //   costomerRandom.tick()
+    // })
   }
 }
+
+export default Universe
