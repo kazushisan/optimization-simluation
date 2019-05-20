@@ -85,7 +85,6 @@ class Universe {
     const customersRandomDone = this.customersRandom.every(customer => customer.isDone)
 
     if (customersDone && customersOrderDone && customersRandomDone){
-      console.log('FINISHED')
       return this.steps
     }
   }
