@@ -1,6 +1,6 @@
 import Customer from '../agents/Customer'
-// import CustomerOrder from '../agents/CustomerOrder'
-// import CustomerRandom from '../agents/CustomerRandom'
+import CustomerOrder from '../agents/CustomerOrder'
+import CustomerRandom from '../agents/CustomerRandom'
 
 class Universe {
   constructor() {
@@ -14,26 +14,32 @@ class Universe {
       [16, 11, 13, 8, 3, 0]
     ]
 
-    this.wait = new Array(6).fill(0)
-    this.waitList = new Array(6).fill([])
+    // N : number of faclities
+    this.N = 6
 
-    this.init()
+    this.wait = new Array(this.N).fill(0)
+    this.waitList = new Array(this.N).fill([])
+
+    // CustomerOrderモデルのエージェントが使用する施設を回る順番
+    this.order = [0, 1, 2, 3, 4, 5]
+
+    this.initAgents()
+
+    this.steps = 0
   }
 
-  init() {
+  initAgents() {
     const self = this
     this.customers = new Array(10).fill(null).map(() => new Customer(self))
-    // this.costomersOrder = new Array(10).map(() => new CustomerOrder())
-    // this.costomersOrder = new Array(10).map(() => new CustomerRandom())
+    this.customersOrder = new Array(0).fill(null).map(() => new CustomerOrder(self))
+    this.customersRandom = new Array(0).fill(null).map(() => new CustomerRandom(self))
     console.log(this.waitList)
     console.log(this.wait)
   }
 
   display() {
-    console.log('----wait list----')
-    console.log(this.waitList)
-    console.log('----wait time----')
-    console.log(this.wait)    
+    console.log('wait list')
+    console.table(this.wait)  
   }
 
   tick() {
@@ -41,15 +47,28 @@ class Universe {
     this.customers.forEach(customer => {
       customer.tick(self)
     })
-    console.log(this.display())
 
-    // this.customersOrder.forEach(costomerOrder => {
-    //   costomerOrder.tick()
-    // })
+    this.customersOrder.forEach(customerOrder => {
+      customerOrder.tick(self)
+    })
 
-    // this.costomersRandom.forEach(costomerRandom => {
-    //   costomerRandom.tick()
-    // })
+    this.customersRandom.forEach(customerRandom => {
+      customerRandom.tick(self)
+    })
+
+    this.display()
+    this.steps += 1
+  }
+
+  done() {
+    const customersDone = this.customers.every(customer => customer.condition === 'done')
+    const customersOrderDone = this.customersOrder.every(customer => customer.condition === 'done')
+    const customersRandomDone = this.customersRandom.every(customer => customer.condition === 'done')
+
+    if (customersDone && customersOrderDone && customersRandomDone){
+      console.log('steps: ' + this.steps)
+      return true
+    }
   }
 }
 

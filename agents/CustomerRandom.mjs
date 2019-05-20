@@ -1,22 +1,15 @@
 import Customer from './Customer'
 
 class CustomerRandom extends Customer {
-  constructor() {
-    // transfer or wait of service
-    this.condition = 'wait'
-    this.visited = new Array(6).fill(false)
-  }
-
-  pickRandom() {
-    while (true) {
-      const i = Math.floor(Math.random() * 6)
-      
-      if (!this.visted[i]) {
-        this.visited[i] = true
-        return i
-      }
+  // 次の施設のインデックスを返す．もし次のインデックスがない場合は-1を返す
+  nextFacility(universe) {
+    if (this.visited.every(facility => facility)) {
+      return -1
     }
+    const facilitiesNotYetVisited = new Array(universe.N).fill(null).map((_, i) => i).filter(i => !this.visited[i])
+    const newDestination = facilitiesNotYetVisited[Math.floor(Math.random() * facilitiesNotYetVisited.length)]
+    return newDestination
   }
 }
 
-export default Customer
+export default CustomerRandom

@@ -6,4 +6,7 @@ const universe = new Universe()
 //   universe.tick()
 // }
 
-universe.tick()
+while (true) {
+  universe.tick()
+  if (universe.done()) break
+}
