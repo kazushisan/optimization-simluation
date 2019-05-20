@@ -26,7 +26,7 @@ class Customer {
     universe.wait[this.facility] += universe.time[this.facility]
 
     // 普通にpushしただけだとなぜかうまく動作しなかった
-    universe.waitList[this.facility] = [...universe.waitList[this.facility], this.id]
+    universe.waitList[this.facility] = [...universe.waitList[this.facility], this]
   }
 
   firstFacility(universe) {
@@ -36,12 +36,23 @@ class Customer {
 
   // 次の施設のインデックスを返す．もし次のインデックスがない場合は-1を返す
   nextFacility(universe) {
-    const facilitiesNotYetVisited = universe.wait.filter((_, i) => !this.visited[i])
-    const newDestination = universe.wait.indexOf(Math.min(...facilitiesNotYetVisited))    
+    if (this.visited.every(facility => facility)) {
+      return -1
+    }
+    const facilitiesNotYetVisited = new Array(universe.N).fill(null).map((_, i) => i).filter(i => !this.visited[i])
+
+    let newDestination = facilitiesNotYetVisited[0]
+    
+    facilitiesNotYetVisited.forEach(facility => {
+      if (universe.wait[facility] < universe.wait[newDestination]) {
+        newDestination = facility
+      }
+    })
     return newDestination
   }
 
   tick(universe) {
+    console.log({ condition: this.condition, transTimeLeft: this.transTimeLeft, serviceTimeLeft: this.serviceTimeLeft, waitTimeLeft: this.waitTimeLeft, facility: this.facility })
     switch (this.condition) {
       case 'transfer':
           if (this.transTimeLeft > 0) {
@@ -58,6 +69,7 @@ class Customer {
             }
 
             universe.wait[this.facility] += universe.time[this.facility]
+
             universe.waitList[this.facility] = [...universe.waitList[this.facility], this.id]
           }
         break;
@@ -76,6 +88,9 @@ class Customer {
               this.condition = 'done'
             } else {
               this.transTimeLeft = universe.transport[this.facility][newDestination]
+              console.log(this.transTimeLeft)
+              console.log(this.facility)
+              console.log(newDestination)
               this.facility = newDestination
               this.condition = 'transfer'
             }

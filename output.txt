@@ -1,0 +1,4073 @@
+[ [],
+  [],
+  [],
+  [ 93767968800004230000, 1690598200078108400 ],
+  [ 62635252254288480000 ],
+  [] ]
+[ 0, 0, 0, 26, 10, 0 ]
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 13,
+  waitTimeLeft: 0,
+  facility: 3 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 13,
+  facility: 3 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 10,
+  waitTimeLeft: 0,
+  facility: 4 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   0    │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │   24   │
+│    4    │   9    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 12,
+  waitTimeLeft: 0,
+  facility: 3 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 12,
+  facility: 3 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 9,
+  waitTimeLeft: 0,
+  facility: 4 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   0    │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │   22   │
+│    4    │   8    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 11,
+  waitTimeLeft: 0,
+  facility: 3 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 11,
+  facility: 3 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 8,
+  waitTimeLeft: 0,
+  facility: 4 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   0    │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │   20   │
+│    4    │   7    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 10,
+  waitTimeLeft: 0,
+  facility: 3 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 10,
+  facility: 3 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 7,
+  waitTimeLeft: 0,
+  facility: 4 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   0    │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │   18   │
+│    4    │   6    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 9,
+  waitTimeLeft: 0,
+  facility: 3 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 9,
+  facility: 3 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 6,
+  waitTimeLeft: 0,
+  facility: 4 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   0    │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │   16   │
+│    4    │   5    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 8,
+  waitTimeLeft: 0,
+  facility: 3 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 8,
+  facility: 3 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 5,
+  waitTimeLeft: 0,
+  facility: 4 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   0    │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │   14   │
+│    4    │   4    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 7,
+  waitTimeLeft: 0,
+  facility: 3 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 7,
+  facility: 3 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 4,
+  waitTimeLeft: 0,
+  facility: 4 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   0    │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │   12   │
+│    4    │   3    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 6,
+  waitTimeLeft: 0,
+  facility: 3 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 6,
+  facility: 3 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 3,
+  waitTimeLeft: 0,
+  facility: 4 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   0    │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │   10   │
+│    4    │   2    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 5,
+  waitTimeLeft: 0,
+  facility: 3 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 5,
+  facility: 3 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 2,
+  waitTimeLeft: 0,
+  facility: 4 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   0    │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │   8    │
+│    4    │   1    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 4,
+  waitTimeLeft: 0,
+  facility: 3 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 4,
+  facility: 3 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 1,
+  waitTimeLeft: 0,
+  facility: 4 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   0    │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │   6    │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 3,
+  waitTimeLeft: 0,
+  facility: 3 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 3,
+  facility: 3 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 4 }
+13
+4
+0
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   0    │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │   4    │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 2,
+  waitTimeLeft: 0,
+  facility: 3 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 2,
+  facility: 3 }
+{ condition: 'transfer',
+  transTimeLeft: 13,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 0 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   0    │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │   2    │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 1,
+  waitTimeLeft: 0,
+  facility: 3 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 1,
+  facility: 3 }
+{ condition: 'transfer',
+  transTimeLeft: 12,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 0 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   0    │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │   0    │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 3 }
+8
+3
+0
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 3 }
+{ condition: 'transfer',
+  transTimeLeft: 11,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 0 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   0    │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │   0    │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 8,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 0 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 13,
+  waitTimeLeft: 0,
+  facility: 3 }
+{ condition: 'transfer',
+  transTimeLeft: 10,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 0 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   0    │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │   -1   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 7,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 0 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 12,
+  waitTimeLeft: 0,
+  facility: 3 }
+{ condition: 'transfer',
+  transTimeLeft: 9,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 0 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   0    │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │   -2   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 6,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 0 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 11,
+  waitTimeLeft: 0,
+  facility: 3 }
+{ condition: 'transfer',
+  transTimeLeft: 8,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 0 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   0    │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │   -3   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 5,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 0 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 10,
+  waitTimeLeft: 0,
+  facility: 3 }
+{ condition: 'transfer',
+  transTimeLeft: 7,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 0 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   0    │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │   -4   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 4,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 0 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 9,
+  waitTimeLeft: 0,
+  facility: 3 }
+{ condition: 'transfer',
+  transTimeLeft: 6,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 0 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   0    │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │   -5   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 3,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 0 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 8,
+  waitTimeLeft: 0,
+  facility: 3 }
+{ condition: 'transfer',
+  transTimeLeft: 5,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 0 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   0    │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │   -6   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 2,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 0 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 7,
+  waitTimeLeft: 0,
+  facility: 3 }
+{ condition: 'transfer',
+  transTimeLeft: 4,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 0 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   0    │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │   -7   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 1,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 0 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 6,
+  waitTimeLeft: 0,
+  facility: 3 }
+{ condition: 'transfer',
+  transTimeLeft: 3,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 0 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   0    │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │   -8   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 0 }
+aa: 0
+0
+10
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 5,
+  waitTimeLeft: 0,
+  facility: 3 }
+{ condition: 'transfer',
+  transTimeLeft: 2,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 0 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   10   │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │   -9   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 10,
+  waitTimeLeft: 0,
+  facility: 0 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 4,
+  waitTimeLeft: 0,
+  facility: 3 }
+{ condition: 'transfer',
+  transTimeLeft: 1,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 0 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   9    │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │  -10   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 9,
+  waitTimeLeft: 0,
+  facility: 0 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 3,
+  waitTimeLeft: 0,
+  facility: 3 }
+{ condition: 'transfer',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 0 }
+aa: 0
+8
+18
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   18   │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │  -11   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 8,
+  waitTimeLeft: 0,
+  facility: 0 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 2,
+  waitTimeLeft: 0,
+  facility: 3 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 8,
+  facility: 0 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   16   │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │  -12   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 7,
+  waitTimeLeft: 0,
+  facility: 0 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 1,
+  waitTimeLeft: 0,
+  facility: 3 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 7,
+  facility: 0 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   14   │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 6,
+  waitTimeLeft: 0,
+  facility: 0 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 3 }
+3
+3
+1
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 6,
+  facility: 0 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   12   │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 5,
+  waitTimeLeft: 0,
+  facility: 0 }
+{ condition: 'transfer',
+  transTimeLeft: 3,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 5,
+  facility: 0 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   10   │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 4,
+  waitTimeLeft: 0,
+  facility: 0 }
+{ condition: 'transfer',
+  transTimeLeft: 2,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 4,
+  facility: 0 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   8    │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 3,
+  waitTimeLeft: 0,
+  facility: 0 }
+{ condition: 'transfer',
+  transTimeLeft: 1,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 3,
+  facility: 0 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   6    │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 2,
+  waitTimeLeft: 0,
+  facility: 0 }
+{ condition: 'transfer',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 1 }
+aa: 1
+0
+23
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 2,
+  facility: 0 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   4    │
+│    1    │   23   │
+│    2    │   0    │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 1,
+  waitTimeLeft: 0,
+  facility: 0 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 23,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 1,
+  facility: 0 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   2    │
+│    1    │   22   │
+│    2    │   0    │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 0 }
+3
+0
+2
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 22,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 0 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   2    │
+│    1    │   21   │
+│    2    │   0    │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 3,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 21,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 10,
+  waitTimeLeft: 0,
+  facility: 0 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   1    │
+│    1    │   20   │
+│    2    │   0    │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 2,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 20,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 9,
+  waitTimeLeft: 0,
+  facility: 0 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   0    │
+│    1    │   19   │
+│    2    │   0    │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 1,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 19,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 8,
+  waitTimeLeft: 0,
+  facility: 0 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -1   │
+│    1    │   18   │
+│    2    │   0    │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 2 }
+aa: 2
+0
+20
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 18,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 7,
+  waitTimeLeft: 0,
+  facility: 0 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -2   │
+│    1    │   17   │
+│    2    │   20   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 20,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 17,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 6,
+  waitTimeLeft: 0,
+  facility: 0 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -3   │
+│    1    │   16   │
+│    2    │   19   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 19,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 16,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 5,
+  waitTimeLeft: 0,
+  facility: 0 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -4   │
+│    1    │   15   │
+│    2    │   18   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 18,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 15,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 4,
+  waitTimeLeft: 0,
+  facility: 0 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -5   │
+│    1    │   14   │
+│    2    │   17   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 17,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 14,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 3,
+  waitTimeLeft: 0,
+  facility: 0 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -6   │
+│    1    │   13   │
+│    2    │   16   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 16,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 13,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 2,
+  waitTimeLeft: 0,
+  facility: 0 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -7   │
+│    1    │   12   │
+│    2    │   15   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 15,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 12,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 1,
+  waitTimeLeft: 0,
+  facility: 0 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   11   │
+│    2    │   14   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 14,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 11,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 0 }
+8
+0
+3
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   10   │
+│    2    │   13   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 13,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 10,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'transfer',
+  transTimeLeft: 8,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 3 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   9    │
+│    2    │   12   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 12,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 9,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'transfer',
+  transTimeLeft: 7,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 3 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   8    │
+│    2    │   11   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 11,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 8,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'transfer',
+  transTimeLeft: 6,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 3 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   7    │
+│    2    │   10   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 10,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 7,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'transfer',
+  transTimeLeft: 5,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 3 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   6    │
+│    2    │   9    │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 9,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 6,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'transfer',
+  transTimeLeft: 4,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 3 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   5    │
+│    2    │   8    │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 8,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 5,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'transfer',
+  transTimeLeft: 3,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 3 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   4    │
+│    2    │   7    │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 7,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 4,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'transfer',
+  transTimeLeft: 2,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 3 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   3    │
+│    2    │   6    │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 6,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 3,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'transfer',
+  transTimeLeft: 1,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 3 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   2    │
+│    2    │   5    │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 5,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 2,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'transfer',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 3 }
+aa: 3
+-13
+0
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   1    │
+│    2    │   4    │
+│    3    │   0    │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 4,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 1,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 13,
+  waitTimeLeft: 0,
+  facility: 3 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │   3    │
+│    3    │   -1   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 3,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 1 }
+5
+1
+0
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 12,
+  waitTimeLeft: 0,
+  facility: 3 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │   2    │
+│    3    │   -2   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 2,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'transfer',
+  transTimeLeft: 5,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 0 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 11,
+  waitTimeLeft: 0,
+  facility: 3 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │   1    │
+│    3    │   -3   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 1,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'transfer',
+  transTimeLeft: 4,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 0 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 10,
+  waitTimeLeft: 0,
+  facility: 3 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │   -4   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 2 }
+8
+2
+1
+{ condition: 'transfer',
+  transTimeLeft: 3,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 0 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 9,
+  waitTimeLeft: 0,
+  facility: 3 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │   -5   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 8,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'transfer',
+  transTimeLeft: 2,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 0 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 8,
+  waitTimeLeft: 0,
+  facility: 3 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │   -6   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 7,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'transfer',
+  transTimeLeft: 1,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 0 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 7,
+  waitTimeLeft: 0,
+  facility: 3 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │   -7   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 6,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'transfer',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 0 }
+aa: 0
+-8
+2
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 6,
+  waitTimeLeft: 0,
+  facility: 3 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   2    │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │   -8   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 5,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 10,
+  waitTimeLeft: 0,
+  facility: 0 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 5,
+  waitTimeLeft: 0,
+  facility: 3 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   1    │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │   -9   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 4,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 9,
+  waitTimeLeft: 0,
+  facility: 0 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 4,
+  waitTimeLeft: 0,
+  facility: 3 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   0    │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │  -10   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 3,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 8,
+  waitTimeLeft: 0,
+  facility: 0 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 3,
+  waitTimeLeft: 0,
+  facility: 3 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -1   │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │  -11   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 2,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 7,
+  waitTimeLeft: 0,
+  facility: 0 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 2,
+  waitTimeLeft: 0,
+  facility: 3 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -2   │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │  -12   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 1,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 6,
+  waitTimeLeft: 0,
+  facility: 0 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 1,
+  waitTimeLeft: 0,
+  facility: 3 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -3   │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 1 }
+aa: 1
+0
+23
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 5,
+  waitTimeLeft: 0,
+  facility: 0 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 3 }
+5
+3
+2
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -4   │
+│    1    │   23   │
+│    2    │   0    │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 23,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 4,
+  waitTimeLeft: 0,
+  facility: 0 }
+{ condition: 'transfer',
+  transTimeLeft: 5,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 2 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -5   │
+│    1    │   22   │
+│    2    │   0    │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 22,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 3,
+  waitTimeLeft: 0,
+  facility: 0 }
+{ condition: 'transfer',
+  transTimeLeft: 4,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 2 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -6   │
+│    1    │   21   │
+│    2    │   0    │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 21,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 2,
+  waitTimeLeft: 0,
+  facility: 0 }
+{ condition: 'transfer',
+  transTimeLeft: 3,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 2 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -7   │
+│    1    │   20   │
+│    2    │   0    │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 20,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 1,
+  waitTimeLeft: 0,
+  facility: 0 }
+{ condition: 'transfer',
+  transTimeLeft: 2,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 2 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   19   │
+│    2    │   0    │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 19,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 0 }
+3
+0
+2
+{ condition: 'transfer',
+  transTimeLeft: 1,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 2 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   18   │
+│    2    │   0    │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 18,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'transfer',
+  transTimeLeft: 3,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'transfer',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 2 }
+aa: 2
+0
+20
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   17   │
+│    2    │   20   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 17,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'transfer',
+  transTimeLeft: 2,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 20,
+  waitTimeLeft: 0,
+  facility: 2 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   16   │
+│    2    │   19   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 16,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'transfer',
+  transTimeLeft: 1,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 19,
+  waitTimeLeft: 0,
+  facility: 2 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   15   │
+│    2    │   18   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 15,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'transfer',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 2 }
+aa: 2
+18
+38
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 18,
+  waitTimeLeft: 0,
+  facility: 2 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   14   │
+│    2    │   37   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 14,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 18,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 17,
+  waitTimeLeft: 0,
+  facility: 2 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   13   │
+│    2    │   35   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 13,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 17,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 16,
+  waitTimeLeft: 0,
+  facility: 2 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   12   │
+│    2    │   33   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 12,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 16,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 15,
+  waitTimeLeft: 0,
+  facility: 2 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   11   │
+│    2    │   31   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 11,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 15,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 14,
+  waitTimeLeft: 0,
+  facility: 2 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   10   │
+│    2    │   29   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 10,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 14,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 13,
+  waitTimeLeft: 0,
+  facility: 2 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   9    │
+│    2    │   27   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 9,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 13,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 12,
+  waitTimeLeft: 0,
+  facility: 2 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   8    │
+│    2    │   25   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 8,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 12,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 11,
+  waitTimeLeft: 0,
+  facility: 2 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   7    │
+│    2    │   23   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 7,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 11,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 10,
+  waitTimeLeft: 0,
+  facility: 2 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   6    │
+│    2    │   21   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 6,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 10,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 9,
+  waitTimeLeft: 0,
+  facility: 2 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   5    │
+│    2    │   19   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 5,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 9,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 8,
+  waitTimeLeft: 0,
+  facility: 2 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   4    │
+│    2    │   17   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 4,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 8,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 7,
+  waitTimeLeft: 0,
+  facility: 2 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   3    │
+│    2    │   15   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 3,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 7,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 6,
+  waitTimeLeft: 0,
+  facility: 2 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   2    │
+│    2    │   13   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 2,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 6,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 5,
+  waitTimeLeft: 0,
+  facility: 2 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   1    │
+│    2    │   11   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 1,
+  waitTimeLeft: 0,
+  facility: 1 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 5,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 4,
+  waitTimeLeft: 0,
+  facility: 2 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │   9    │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 1 }
+18
+1
+4
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 4,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 3,
+  waitTimeLeft: 0,
+  facility: 2 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │   7    │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 18,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 3,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 2,
+  waitTimeLeft: 0,
+  facility: 2 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │   5    │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 17,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 2,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 1,
+  waitTimeLeft: 0,
+  facility: 2 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │   3    │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 16,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 1,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 2 }
+8
+2
+1
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │   2    │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 15,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'transfer',
+  transTimeLeft: 8,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 1 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │   2    │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 14,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 20,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'transfer',
+  transTimeLeft: 7,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 1 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │   1    │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 13,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 19,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'transfer',
+  transTimeLeft: 6,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 1 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │   0    │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 12,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 18,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'transfer',
+  transTimeLeft: 5,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 1 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │   -1   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 11,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 17,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'transfer',
+  transTimeLeft: 4,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 1 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │   -2   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 10,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 16,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'transfer',
+  transTimeLeft: 3,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 1 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │   -3   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 9,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 15,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'transfer',
+  transTimeLeft: 2,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 1 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │   -4   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 8,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 14,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'transfer',
+  transTimeLeft: 1,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 1 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │   -5   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 7,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 13,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'transfer',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 1 }
+aa: 1
+0
+23
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   23   │
+│    2    │   -6   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 6,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 12,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 23,
+  waitTimeLeft: 0,
+  facility: 1 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   22   │
+│    2    │   -7   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 5,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 11,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 22,
+  waitTimeLeft: 0,
+  facility: 1 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   21   │
+│    2    │   -8   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 4,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 10,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 21,
+  waitTimeLeft: 0,
+  facility: 1 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   20   │
+│    2    │   -9   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 3,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 9,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 20,
+  waitTimeLeft: 0,
+  facility: 1 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   19   │
+│    2    │  -10   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 2,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 8,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 19,
+  waitTimeLeft: 0,
+  facility: 1 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   18   │
+│    2    │  -11   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 1,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 7,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 18,
+  waitTimeLeft: 0,
+  facility: 1 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   17   │
+│    2    │  -12   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 4 }
+aa: 4
+0
+10
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 6,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 17,
+  waitTimeLeft: 0,
+  facility: 1 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   16   │
+│    2    │  -13   │
+│    3    │  -13   │
+│    4    │   10   │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 10,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 5,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 16,
+  waitTimeLeft: 0,
+  facility: 1 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   15   │
+│    2    │  -14   │
+│    3    │  -13   │
+│    4    │   9    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 9,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 4,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 15,
+  waitTimeLeft: 0,
+  facility: 1 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   14   │
+│    2    │  -15   │
+│    3    │  -13   │
+│    4    │   8    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 8,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 3,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 14,
+  waitTimeLeft: 0,
+  facility: 1 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   13   │
+│    2    │  -16   │
+│    3    │  -13   │
+│    4    │   7    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 7,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 2,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 13,
+  waitTimeLeft: 0,
+  facility: 1 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   12   │
+│    2    │  -17   │
+│    3    │  -13   │
+│    4    │   6    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 6,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 1,
+  waitTimeLeft: 0,
+  facility: 2 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 12,
+  waitTimeLeft: 0,
+  facility: 1 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   11   │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   5    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 5,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 2 }
+13
+2
+5
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 11,
+  waitTimeLeft: 0,
+  facility: 1 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   10   │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   4    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 4,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'transfer',
+  transTimeLeft: 13,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 10,
+  waitTimeLeft: 0,
+  facility: 1 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   9    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   3    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 3,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'transfer',
+  transTimeLeft: 12,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 9,
+  waitTimeLeft: 0,
+  facility: 1 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   8    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   2    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 2,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'transfer',
+  transTimeLeft: 11,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 8,
+  waitTimeLeft: 0,
+  facility: 1 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   7    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   1    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 1,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'transfer',
+  transTimeLeft: 10,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 7,
+  waitTimeLeft: 0,
+  facility: 1 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   6    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 4 }
+3
+4
+5
+{ condition: 'transfer',
+  transTimeLeft: 9,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 6,
+  waitTimeLeft: 0,
+  facility: 1 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   5    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 3,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'transfer',
+  transTimeLeft: 8,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 5,
+  waitTimeLeft: 0,
+  facility: 1 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   4    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 2,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'transfer',
+  transTimeLeft: 7,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 4,
+  waitTimeLeft: 0,
+  facility: 1 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   3    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 1,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'transfer',
+  transTimeLeft: 6,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 3,
+  waitTimeLeft: 0,
+  facility: 1 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   2    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'transfer',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+aa: 5
+0
+8
+{ condition: 'transfer',
+  transTimeLeft: 5,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 2,
+  waitTimeLeft: 0,
+  facility: 1 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   1    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   8    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 8,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'transfer',
+  transTimeLeft: 4,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 1,
+  waitTimeLeft: 0,
+  facility: 1 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   7    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 7,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'transfer',
+  transTimeLeft: 3,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 1 }
+11
+1
+5
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   6    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 6,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'transfer',
+  transTimeLeft: 2,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'transfer',
+  transTimeLeft: 11,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   5    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 5,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'transfer',
+  transTimeLeft: 1,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'transfer',
+  transTimeLeft: 10,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   4    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 4,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'transfer',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+aa: 5
+3
+11
+{ condition: 'transfer',
+  transTimeLeft: 9,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   11   │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 3,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 3,
+  facility: 5 }
+{ condition: 'transfer',
+  transTimeLeft: 8,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   9    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 2,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 2,
+  facility: 5 }
+{ condition: 'transfer',
+  transTimeLeft: 7,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   7    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 1,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 1,
+  facility: 5 }
+{ condition: 'transfer',
+  transTimeLeft: 6,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   5    │
+└─────────┴────────┘
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'wait',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'transfer',
+  transTimeLeft: 5,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   5    │
+└─────────┴────────┘
+{ condition: 'done',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 8,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'transfer',
+  transTimeLeft: 4,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   4    │
+└─────────┴────────┘
+{ condition: 'done',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 7,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'transfer',
+  transTimeLeft: 3,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   3    │
+└─────────┴────────┘
+{ condition: 'done',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 6,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'transfer',
+  transTimeLeft: 2,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   2    │
+└─────────┴────────┘
+{ condition: 'done',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 5,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'transfer',
+  transTimeLeft: 1,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   1    │
+└─────────┴────────┘
+{ condition: 'done',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 4,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'transfer',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+aa: 5
+0
+8
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   8    │
+└─────────┴────────┘
+{ condition: 'done',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 3,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 8,
+  waitTimeLeft: 0,
+  facility: 5 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   6    │
+└─────────┴────────┘
+{ condition: 'done',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 2,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 7,
+  waitTimeLeft: 0,
+  facility: 5 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   4    │
+└─────────┴────────┘
+{ condition: 'done',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 1,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 6,
+  waitTimeLeft: 0,
+  facility: 5 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   2    │
+└─────────┴────────┘
+{ condition: 'done',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+3
+5
+4
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 5,
+  waitTimeLeft: 0,
+  facility: 5 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   1    │
+└─────────┴────────┘
+{ condition: 'done',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'transfer',
+  transTimeLeft: 3,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 4,
+  waitTimeLeft: 0,
+  facility: 5 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   0    │
+└─────────┴────────┘
+{ condition: 'done',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'transfer',
+  transTimeLeft: 2,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 3,
+  waitTimeLeft: 0,
+  facility: 5 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   -1   │
+└─────────┴────────┘
+{ condition: 'done',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'transfer',
+  transTimeLeft: 1,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 2,
+  waitTimeLeft: 0,
+  facility: 5 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   -2   │
+└─────────┴────────┘
+{ condition: 'done',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'transfer',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 4 }
+aa: 4
+0
+10
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 1,
+  waitTimeLeft: 0,
+  facility: 5 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   10   │
+│    5    │   -3   │
+└─────────┴────────┘
+{ condition: 'done',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 10,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   9    │
+│    5    │   -3   │
+└─────────┴────────┘
+{ condition: 'done',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 9,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'done',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   8    │
+│    5    │   -3   │
+└─────────┴────────┘
+{ condition: 'done',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 8,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'done',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   7    │
+│    5    │   -3   │
+└─────────┴────────┘
+{ condition: 'done',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 7,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'done',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   6    │
+│    5    │   -3   │
+└─────────┴────────┘
+{ condition: 'done',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 6,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'done',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   5    │
+│    5    │   -3   │
+└─────────┴────────┘
+{ condition: 'done',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 5,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'done',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   4    │
+│    5    │   -3   │
+└─────────┴────────┘
+{ condition: 'done',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 4,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'done',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   3    │
+│    5    │   -3   │
+└─────────┴────────┘
+{ condition: 'done',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 3,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'done',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   2    │
+│    5    │   -3   │
+└─────────┴────────┘
+{ condition: 'done',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 2,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'done',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   1    │
+│    5    │   -3   │
+└─────────┴────────┘
+{ condition: 'done',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 1,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'done',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   -3   │
+└─────────┴────────┘
+{ condition: 'done',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+{ condition: 'service',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 4 }
+{ condition: 'done',
+  transTimeLeft: 0,
+  serviceTimeLeft: 0,
+  waitTimeLeft: 0,
+  facility: 5 }
+┌─────────┬────────┐
+│ (index) │ Values │
+├─────────┼────────┤
+│    0    │   -8   │
+│    1    │   0    │
+│    2    │  -18   │
+│    3    │  -13   │
+│    4    │   0    │
+│    5    │   -3   │
+└─────────┴────────┘
+steps: 159

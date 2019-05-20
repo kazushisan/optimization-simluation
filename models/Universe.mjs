@@ -30,7 +30,7 @@ class Universe {
 
   initAgents() {
     const self = this
-    this.customers = new Array(10).fill(null).map(() => new Customer(self))
+    this.customers = new Array(3).fill(null).map(() => new Customer(self))
     this.customersOrder = new Array(0).fill(null).map(() => new CustomerOrder(self))
     this.customersRandom = new Array(0).fill(null).map(() => new CustomerRandom(self))
     console.log(this.waitList)
@@ -38,8 +38,8 @@ class Universe {
   }
 
   display() {
-    console.log('wait list')
-    console.table(this.wait)  
+    // process.stdout.write('\x1Bc')
+    console.table(this.wait)
   }
 
   tick() {
