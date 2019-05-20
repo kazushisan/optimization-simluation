@@ -1,12 +1,8 @@
 import Universe from './models/Universe'
 
-const universe = new Universe()
-
-// while(true) {
-//   universe.tick()
-// }
-
 const main = async () => {
+  const universe = new Universe()
+
   while (true) {
     await universe.tick()
     if (universe.done()) break
